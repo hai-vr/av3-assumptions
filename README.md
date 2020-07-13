@@ -43,12 +43,15 @@ Confidence levels is how sure I believe I am about a statement.
 
 - OPINION: Unless you actively want to change a Playable layer to make active use of them, try to leave the Locomotion and Action playable layers to the defaults, **especially the Locomotion layer**. That way, it will default to the VRChat provided defaults, which may update over time. *(confidence 25%)*
 
-## Unity Editor specific
+## Unity specific
 
 ### Blend trees
 
 - OPINION: If an animation of a blend tree animates a property, then every animation of that blend tree should also animate that property back to the defaults if unused *(confidence 75%)*
   - *REASONING: When MissStabby created her complex blend tree, swiping quickly to another coordinate would yield different results every time, which were visible both in the Unity editor and in-game. This opinion was forged during a conference call with MissStabby and a VRChat developer*
+
+
+## Unity Editor specific
 
 ### Unity Editor gotchas
 

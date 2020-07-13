@@ -64,4 +64,4 @@ Confidence levels is how sure I believe I am about a statement.
   - In play mode, editing the behaviors of a state will NOT save them *(confidence 100%)*
   - In play mode, editing the layer weight will NOT save them *(confidence 100%)*
 
-- If the OS is in French, whenever blend trees values are edited by hand, the comma decimal separator must be manually changed to a dot for the change to take effect *(confidence •5%)*
+- If the OS is in French, whenever blend trees values are edited by hand, the comma decimal separator must be manually changed to a dot for the change to take effect *(confidence 75%)*
